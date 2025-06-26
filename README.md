@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexussybaka
 - 👀 I’m interested in Geography, Mathematics and Gamedev
-- 🌱 I’m currently learning WPF and XAML
+- 🌱 I’m currently learning WPF, XAML and Singletons in C#
 - 💞️ I’m looking to collaborate on cool coding projects!
 - 😄 Do not do vibe-coding!
 
