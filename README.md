@@ -3,7 +3,7 @@
   👋 Hi, I am <b>Alexussybaka</b>, I am an <b>indie game developer</b> with over 4 years of experience, a passionate <b>mathematician</b> and a <b>CS student</b>  
 </p>
 <p align="center">
-  My favourite integral: **∫eˣ dx = eˣ + C**
+  My favourite integral: <b>∫eˣ dx = eˣ + C</b>
 </p>
 
 ## My stack:
