@@ -1,2 +1,5 @@
-👋 Hi, I am **Alexussybaka**, I am an **indie game developer** with over 4 years of experience, a passionate **mathematician** and a **CS student**...
+
+<p allign="center">
+  👋 Hi, I am **Alexussybaka**, I am an **indie game developer** with over 4 years of experience, a passionate **mathematician** and a **CS student**...  
+</p>
 
